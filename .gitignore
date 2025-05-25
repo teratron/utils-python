@@ -1,0 +1,23 @@
+### IDE
+.idea/
+.vscode/
+
+### Git
+
+
+### Linux
+
+
+### Windows
+
+
+### macOS 
+
+
+### Python
+__pycache__/
+__pypackages__/
+
+### VirtualEnv template
+.venv
+venv/
