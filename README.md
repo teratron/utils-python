@@ -1,3 +1,3 @@
 # Python Utilities
 
-Personal library of python utilities
+Personal library of Python utilities
